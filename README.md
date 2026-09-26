@@ -1,60 +1,46 @@
-# 👋 Hello! I'm Arman Smesh
+# Arman Smesh
 
-> **KBTU Student · Full-Stack Developer · AI Enthusiast · Creator**
+Full-stack developer building web products, community tools, and data-driven experiments.
 
 📍 Almaty, Kazakhstan  
-🎓 Kazakh-British Technical University (KBTU) — IT  
-💻 Building **Wally** — my personal AI LifeOS  
-🎮 Discord bot developer · Web dev · Game dev enthusiast
+🎓 Kazakh-British Technical University (KBTU)  
+🔭 Interests: web development, Discord integrations, applied AI, and data science
 
----
+## Selected work
 
-## 🛠️ Tech Stack
+### [RV Rental Landing](https://github.com/SmeshTV/rv-rental-landing)
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React, Angular 21, TypeScript, Tailwind CSS, Vite |
-| **Backend** | Node.js, Django, Django REST Framework, Supabase |
-| **Languages** | JavaScript/TypeScript, Python, HTML/CSS, Luau (learning) |
-| **AI & Tools** | opencode, MCP, Obsidian API, Telegram Bot API, Discord.js |
-| **Databases** | PostgreSQL, SQLite |
-| **DevOps** | Git, PWA, Service Workers |
+Responsive single-page landing page for an RV rental service. Built with semantic HTML, modern CSS, and vanilla JavaScript.
 
----
+### Private projects
 
-## 🚀 Featured Projects
+Some projects are kept private while they are being polished and secured:
 
-### 🤖 [Wally LifeOS](https://github.com/SmeshTV/wally-lifeos)
-Personal AI-powered LifeOS — a dashboard that integrates GitHub, Telegram, Obsidian, and Gmail into one intelligent assistant. Built with opencode MCP architecture.
+- **LOLA Community Platform** — Discord community platform with progression, games, shop, administration, and Supabase.
+- **KBTU Student Support** — React/TypeScript student support and test-prep platform.
+- **KBTU Underground Events** — University events platform with an Angular frontend and Django REST backend.
+- **Study Planner** — Offline-first PWA for tasks, reminders, birthdays, and study planning.
+- **Wally LifeOS PWA Prototype** — Offline-first personal productivity dashboard prototype.
+- **MQD Hidden Entrepreneurs** — Data science pipeline for entrepreneur classification and product recommendations.
+- **Minecraft Aternos Keepalive** — Mineflayer bot for keeping a Minecraft server online.
 
-### 🍄 [LOLA — Discord Platform](https://github.com/SmeshTV/discord-bot)
-Full-stack Discord community platform with XP system, casino, shop, PvP checkers, admin panel, and Supabase backend. React + TypeScript + discord.js.
+## Tech stack
 
-### 🏠 [Bunker Online](https://github.com/SmeshTV/bunker-online)
-Real-time multiplayer post-apocalyptic survival board game. React + Socket.io.
+- **Frontend:** React, Angular, TypeScript, Tailwind CSS, Vite
+- **Backend:** Node.js, Django, Django REST Framework, Supabase
+- **Data:** PostgreSQL, SQLite, Python, pandas, CatBoost, SHAP
+- **Integrations:** Discord.js, Telegram Bot API, PWA, Git, GitHub CLI
 
-### 🏫 [KBTU Underground](https://github.com/SmeshTV/DreamWeave)
-University events platform with Angular + Django REST. Student reviews, event management, JWT auth.
+## Currently learning
 
-### 🚐 [RV Rental Landing](https://github.com/SmeshTV/rv-rental-landing)
-Responsive landing page for RV/campervan rental — pure HTML/CSS with modern design.
+- Blender and 3D modeling
+- Roblox Studio and Luau
+- IELTS
+- Applied AI tooling and automation
 
----
+## Contact
 
-## 🌱 Currently Learning
+- [Telegram](https://t.me/arman_helper_bot)
+- [Email](mailto:smeshtrend@gmail.com)
 
-- **Blender** — 3D modeling
-- **Roblox Studio** — game development with Luau
-- **IELTS** — English proficiency
-- **coddy.tech** — practical programming
-
----
-
-## 📫 Connect with Me
-
-- **Telegram:** [@arman_helper_bot](https://t.me/arman_helper_bot)
-- **Email:** smeshtrend@gmail.com
-
----
-
-*"Building tools that make life smarter, one project at a time."* 🚀
+> Building useful tools one project at a time.
