@@ -1,46 +1,61 @@
-# Arman Smesh
+# 👋 Arman Smesh
 
-Full-stack developer building web products, community tools, and data-driven experiments.
+**Full-stack developer** building web products, community tools, and data-driven experiments.
 
 📍 Almaty, Kazakhstan  
 🎓 Kazakh-British Technical University (KBTU)  
-🔭 Interests: web development, Discord integrations, applied AI, and data science
+🔭 Interests: web development, Discord integrations, applied AI, data science
 
-## Selected work
+---
 
-### [RV Rental Landing](https://github.com/SmeshTV/rv-rental-landing)
+## 📚 Каталог проектов
 
-Responsive single-page landing page for an RV rental service. Built with semantic HTML, modern CSS, and vanilla JavaScript.
+👉 **[Открыть полный каталог проектов](https://github.com/SmeshTV/portfolio)** — все мои работающие проекты с описаниями, гайдами по запуску, стеком и ссылками. Нажми на любой проект, чтобы открыть подробную страницу.
 
-### Private projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-Все%20проекты-blue?logo=github)](https://github.com/SmeshTV/portfolio)
 
-Some projects are kept private while they are being polished and secured:
+---
 
-- **LOLA Community Platform** — Discord community platform with progression, games, shop, administration, and Supabase.
-- **KBTU Student Support** — React/TypeScript student support and test-prep platform.
-- **KBTU Underground Events** — University events platform with an Angular frontend and Django REST backend.
-- **Study Planner** — Offline-first PWA for tasks, reminders, birthdays, and study planning.
-- **Wally LifeOS PWA Prototype** — Offline-first personal productivity dashboard prototype.
-- **MQD Hidden Entrepreneurs** — Data science pipeline for entrepreneur classification and product recommendations.
-- **Minecraft Aternos Keepalive** — Mineflayer bot for keeping a Minecraft server online.
+## 🚀 Избранные проекты
 
-## Tech stack
+### [RV Rental Landing](https://github.com/SmeshTV/rv-rental-landing) — ✅ public + [demo](https://smeshtv.github.io/rv-rental-landing/)
+Адаптивный лендинг аренды автодомов. Semantic HTML, CSS, vanilla JS.
 
-- **Frontend:** React, Angular, TypeScript, Tailwind CSS, Vite
-- **Backend:** Node.js, Django, Django REST Framework, Supabase
+### [GPULease (vault-dev)](https://github.com/SmeshTV/vault-dev) — ✅ public
+Marketplace простаивающих GPU на Solana с escrow-контрактом.
+
+### 🔒 Приватные проекты (описания в [каталоге](https://github.com/SmeshTV/portfolio))
+
+- **LOLA Community Platform** — Discord-сообщество: прогрессия, казино, магазин с ролями, игры, админка (React, Supabase, discord.js)
+- **Study Planner** — Offline-first PWA: расписание, задачи, привычки, напоминания
+- **KBTU Student Support** — Платформа подготовки к тестам (12 типов вопросов, админ-CMS)
+- **KBTU Underground Events** — Платформа событий (Angular + Django REST)
+- **БУНКЕР Онлайн** — Мультиплеерная настольная игра (React + Socket.io)
+- **Minecraft Aternos Keepalive** — Бот, держащий Aternos-сервер онлайн
+- **MQD Hidden Entrepreneurs** — Data science: классификация бизнес/потребительских карт
+- **Wally LifeOS PWA** — Offline-first дашборд продуктивности
+- **KBTU Underground Chat** — Real-time чат для студентов
+
+---
+
+## 🛠️ Tech stack
+
+- **Frontend:** React, Angular, TypeScript, Tailwind CSS, Vite, HTML/CSS/JS
+- **Backend:** Node.js, Django, Django REST Framework, Supabase, Express, Socket.io
 - **Data:** PostgreSQL, SQLite, Python, pandas, CatBoost, SHAP
-- **Integrations:** Discord.js, Telegram Bot API, PWA, Git, GitHub CLI
+- **Integrations:** Discord.js, Telegram Bot API, PWA, Solana/Anchor, Firebase
 
-## Currently learning
+## 📚 Сейчас изучаю
 
-- Blender and 3D modeling
-- Roblox Studio and Luau
+- Blender и 3D-моделирование
+- Roblox Studio и Luau
 - IELTS
-- Applied AI tooling and automation
+- Прикладной AI и автоматизация
 
-## Contact
+## 📬 Контакты
 
-- [Telegram](https://t.me/arman_helper_bot)
-- [Email](mailto:smeshtrend@gmail.com)
+- GitHub: [@SmeshTV](https://github.com/SmeshTV)
+- Telegram: [@arman_helper_bot](https://t.me/arman_helper_bot)
+- Email: [smeshtrend@gmail.com](mailto:smeshtrend@gmail.com)
 
 > Building useful tools one project at a time.
